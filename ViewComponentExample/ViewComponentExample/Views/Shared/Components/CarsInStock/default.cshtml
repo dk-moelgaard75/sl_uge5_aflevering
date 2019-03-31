@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNetCore.Http
+@*
+    @model ViewComponentExample.Models.CarsInStockModel;
+*@
+@model IEnumerable<ViewComponentExample.Models.CarModel>
+
+<table>
+    <tr>
+        <td>ID</td>
+        <td>Overskrift</td>
+        <td>Mærke</td>
+        <td>Model</td>
+    </tr>
+    @foreach (var car in Model)
+    {
+        <tr>
+            <td>@car.ID</td>
+            <td>@car.Header</td>
+            <td>@car.Brand</td>
+            <td>@car.Model</td>
+        </tr>        
+    }
+</table>

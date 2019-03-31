@@ -1,0 +1,11 @@
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\obj\Debug\netcoreapp2.0\ViewComponentExample.csprojAssemblyReference.cache
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\obj\Debug\netcoreapp2.0\ViewComponentExample.csproj.CoreCompileInputs.cache
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\obj\Debug\netcoreapp2.0\ViewComponentExample.AssemblyInfoInputs.cache
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\obj\Debug\netcoreapp2.0\ViewComponentExample.AssemblyInfo.cs
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\bin\Debug\netcoreapp2.0\ViewComponentExample.deps.json
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\bin\Debug\netcoreapp2.0\ViewComponentExample.runtimeconfig.json
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\bin\Debug\netcoreapp2.0\ViewComponentExample.runtimeconfig.dev.json
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\bin\Debug\netcoreapp2.0\ViewComponentExample.dll
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\bin\Debug\netcoreapp2.0\ViewComponentExample.pdb
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\obj\Debug\netcoreapp2.0\ViewComponentExample.dll
+C:\udv\sl_uge5_aflevering\ViewComponentExample\ViewComponentExample\obj\Debug\netcoreapp2.0\ViewComponentExample.pdb
